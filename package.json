@@ -1,0 +1,19 @@
+{
+  "name": "search_bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "sinchang <sinchangwen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^9.2.2",
+    "node-telegram-bot-api": "^0.30.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
